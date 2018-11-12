@@ -24,9 +24,9 @@ const fareTripler = createFareMultiplier(3)
 function fetchSpecifiedDrivers(drivers,specified){
   if( specified === returnFirstTwoDrivers){
     return returnFirstTwoDrivers(drivers)
-    else if (specified === returnLastTwoDrivers){
+    }else if (specified === returnLastTwoDrivers){
       return returnLastTwoDrivers(drivers)
-    }
+    
   }
   
   

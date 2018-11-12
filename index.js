@@ -12,7 +12,7 @@ const selectingDrivers = [returnFirstTwoDrivers,returnLastTwoDrivers]
 
 function createFareMultiplier(num){
   return function (num2){
-    return nmu * num2
+    return num * num2
     
   }
 }

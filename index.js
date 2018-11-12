@@ -20,3 +20,21 @@ function createFareMultiplier(num){
 const fareDoubler = createFareMultiplier(2)
 
 const fareTripler = createFareMultiplier(3)
+
+function fetchSpecifiedDrivers(drivers,specified){
+  if( specified === returnFirstTwoDrivers){
+    return returnFirstTwoDrivers(drivers)
+  }
+  
+  
+}
+
+
+
+
+
+
+
+
+
+

@@ -10,3 +10,4 @@ const returnLastTwoDrivers = function (drivers){
 
 const selectingDrivers = [function (){returnFirstTwoDrivers},returnLastTwoDrivers()]
 
+const h = [1,2,3]
